@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+### I exist
+
 <!--
 **Bido67/bido67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,5 +17,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Prounouns: She/Her
 
-I exist.
+Social Medias that i use:
+Discord Server: https://discord.gg/bnSrkHT
+Twitter: https://twitter.com/bbido67
+Twitch: https://twitch.tv/bido67
+Youtube: https://youtube.com/@bido67
+Github: You are here
+Tiktok: https://tiktok.com/@bbido67
+
+
+
