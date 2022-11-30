@@ -20,12 +20,12 @@ Here are some ideas to get you started:
 Prounouns: She/Her
 
 Social Medias that i use:
-Discord Server: https://discord.gg/bnSrkHT
-Twitter: https://twitter.com/bbido67
-Twitch: https://twitch.tv/bido67
-Youtube: https://youtube.com/@bido67
-Github: You are here
-Tiktok: https://tiktok.com/@bbido67
+- Discord Server: https://discord.gg/bnSrkHT
+- Twitter: https://twitter.com/bbido67
+- Twitch: https://twitch.tv/bido67
+- Youtube: https://youtube.com/@bido67
+- Github: You are here
+- Tiktok: https://tiktok.com/@bbido67
 
 
 
