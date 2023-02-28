@@ -24,6 +24,7 @@ Prounouns: She/Her
 Height: 175cm or 5'8" or 69"
 
 Social Medias that i use:
+- About me page: https://bido67.github.io/aboutme
 - Discord Server: https://discord.gg/bnSrkHT
 - Twitter: https://twitter.com/bbido67
 - Twitch: https://twitch.tv/bido67
