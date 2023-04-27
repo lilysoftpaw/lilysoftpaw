@@ -32,5 +32,6 @@ Social Medias that i use:
 - Github: You are here
 - Tiktok: https://tiktok.com/@bbido67
 
-### Your my teacher and you fell on this? This is my personal profile with my personal stuff on here. I share the access to most of my repos that are on my school account to this account because I refuse to sign in school accounts on my personal computer at home and also since I use my laptop in classes, all my apps have this account signed in. 
+### Your my teacher and you fell on this? 
+This is my personal profile with my personal stuff on here. I share the access to most of my repos that are on my school account to this account because I refuse to sign in school accounts on my personal computer at home and also since I use my laptop in classes, all my apps have this account signed in. 
 
