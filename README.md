@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 Prounouns: She/Her
 
-Height: 175cm or 5'8" or 69"
+Height: 173cm or 5'8" or 68"
 
 Social Medias that i use:
 - About me page: https://bido67.github.io/aboutme
