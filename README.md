@@ -26,10 +26,10 @@ Height: 173cm or 5'8" or 68"
 Social Medias that i use:
 - About me page: https://lilysoftpaw.github.io/aboutme
 - Dead Discord Server: https://discord.gg/bnSrkHT
-- Bluesky : https://bsky.app/profile/lilythecutedumbass.bsky.social
-- Twitter: https://twitter.com/bbido67
+- Bluesky : https://bsky.app/profile/lilysoftpaw.bsky.social
+- Twitter: https://twitter.com/lilysoftpaw
 - Twitch: https://twitch.tv/lilysoftpaw
-- Youtube: https://youtube.com/@bido67
+- Youtube: https://youtube.com/@lilysoftpaw
 - Github: You are here
 - Tiktok: https://tiktok.com/@bbido67
 
