@@ -31,7 +31,7 @@ Social Medias that i use:
 - Twitch: https://twitch.tv/lilysoftpaw
 - Youtube: https://youtube.com/@lilysoftpaw
 - Github: You are here
-- Tiktok: https://tiktok.com/@bbido67
+- Tiktok: https://tiktok.com/@lilysoftpaw
 
 ### Your my teacher and you fell on this? 
 This is my personal profile with my personal stuff on here. I share the access to most of my repos that are on my school account to this account because I refuse to sign in school accounts on my personal computer at home and also since I use my laptop in classes, all my apps have this account signed in. 
