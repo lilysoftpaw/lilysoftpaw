@@ -24,7 +24,7 @@ Prounouns: She/Her
 Height: 173cm or 5'8" or 68"
 
 Social Medias that i use:
-- About me page: https://lilysoftpaw.github.io/aboutme
+- About me page: https://aboutme.lilysoftpaw.com
 - Dead Discord Server: https://discord.gg/bnSrkHT
 - Bluesky : https://bsky.app/profile/lilysoftpaw.bsky.social
 - Twitter: https://twitter.com/lilysoftpaw
